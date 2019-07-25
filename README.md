@@ -3,10 +3,11 @@
 Objective  
   •	Build and compile a logic gate and simulate it using ModelSim. 
   •	Learn how to create a macro file for the simulation. 
+  
 Equipment 
   A computer with ModelSim installed. 
+  
 Procedure 
-
   A)	Getting Started 
    1-	Create a folder in your "C" drive and name it "projects". 
    2-	Open ModelSim and create a new project: File => New project 
@@ -47,21 +48,19 @@ Procedure
       1-	In the ModelSim window, click: view => signals 
       2-	In the Objects window: 
       
-        •	Right Click on the 'a' signal: Modify => Force => Value: 0, Delay For: 0 => Ok  
-        •	Right Click on the 'a' signal: Modify => Force => Value: 1, Delay For: 100 => Ok 
-        •	Right Click on the 'a' signal: Modify => Force => Value: 0, Delay For: 200 => Ok 
-        •	Right Click on the 'a' signal: Modify => Force => Value: 1, Delay For: 300 => Ok 
-        •	Right Click on the 'b' signal: Modify => Force => Value: 0, Delay For: 0 => Ok 
-        •	Right Click on the 'b' signal: Modify => Force => Value: 1, Delay For: 200 => Ok 
-      
-     3-In the wave window: 
-      
-        •	Press "run" several times till you reach about 400ps.   
-        •	Press "zoom full" to see the whole wave.  
-        •	Your wave should look like the figure below.  
-        
+          •	Right Click on the 'a' signal: Modify => Force => Value: 0, Delay For: 0 => Ok  
+          •	Right Click on the 'a' signal: Modify => Force => Value: 1, Delay For: 100 => Ok 
+          •	Right Click on the 'a' signal: Modify => Force => Value: 0, Delay For: 200 => Ok 
+          •	Right Click on the 'a' signal: Modify => Force => Value: 1, Delay For: 300 => Ok 
+          •	Right Click on the 'b' signal: Modify => Force => Value: 0, Delay For: 0 => Ok 
+          •	Right Click on the 'b' signal: Modify => Force => Value: 1, Delay For: 200 => Ok 
+          
+     3-In the wave window:
+         •	Press "run" several times till you reach about 400ps.   
+         •	Press "zoom full" to see the whole wave.  
+         •	Your wave should look like the figure below. 
      4-	To save your forces in a macro file:  
-        •	Copy the set of commands from the ModelSim Transcript Window. 
+         •	Copy the set of commands from the ModelSim Transcript Window. 
 
            force -freeze sim:/and_2bit/a 0 0
            force -freeze sim:/and_2bit/a 1 100
