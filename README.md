@@ -77,5 +77,5 @@ Procedure
         ii.	Click the view tab and then under advanced settings clear the “Hide extensions for known file types” check box and then click OK. 
         
      5-	To test the macro file, restart the simulation by pressing the restart button 
-     6-	From the menu:  Click Tools => TCL => Execute Macro => select the "forces_and_2bit.do" file. Then view the signals and run the           simulation.
+     6-	From the menu:  Click Tools => TCL => Execute Macro => select the "forces_and_2bit.do" file. Then view the signals and run the simulation.
      7-	To exit Simulation: Click Simulate => End Simulation
