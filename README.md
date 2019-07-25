@@ -43,7 +43,7 @@ Procedure
       4-	From the library tab, Select your design unit from the work library and right click the mouse and select Simulate
       5-	Or simply click the simulate icon from the menu
       6-	From the "start simulation" window, expand the work library, then select the design "and2_bit", then click "OK"
- 
+      
    D)	ModelSim Simulation 
       1-	In the ModelSim window, click: view => signals 
       2-	In the Objects window: 
@@ -74,7 +74,7 @@ Procedure
         
     If the extension name does not change do the following:  
         i.	Open Folder options by clicking the Start button => control panel => appearance and personalization => folder options. 
-        ii.	Click the view tab and then under advanced settings clear the “Hide extensions for known file types” check box and then                 click OK. 
+        ii.	Click the view tab and then under advanced settings clear the “Hide extensions for known file types” check box and then click OK. 
         
      5-	To test the macro file, restart the simulation by pressing the restart button 
      6-	From the menu:  Click Tools => TCL => Execute Macro => select the "forces_and_2bit.do" file. Then view the signals and run the           simulation.
