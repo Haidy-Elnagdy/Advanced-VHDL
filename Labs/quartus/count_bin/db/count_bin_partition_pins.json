@@ -1,0 +1,113 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "count[0]",
+					"strict" : false
+				},
+				{
+					"name" : "count[1]",
+					"strict" : false
+				},
+				{
+					"name" : "count[2]",
+					"strict" : false
+				},
+				{
+					"name" : "count[3]",
+					"strict" : false
+				},
+				{
+					"name" : "count[4]",
+					"strict" : false
+				},
+				{
+					"name" : "count[5]",
+					"strict" : false
+				},
+				{
+					"name" : "count[6]",
+					"strict" : false
+				},
+				{
+					"name" : "count[7]",
+					"strict" : false
+				},
+				{
+					"name" : "count[8]",
+					"strict" : false
+				},
+				{
+					"name" : "count[9]",
+					"strict" : false
+				},
+				{
+					"name" : "count[10]",
+					"strict" : false
+				},
+				{
+					"name" : "count[11]",
+					"strict" : false
+				},
+				{
+					"name" : "count[12]",
+					"strict" : false
+				},
+				{
+					"name" : "count[13]",
+					"strict" : false
+				},
+				{
+					"name" : "count[14]",
+					"strict" : false
+				},
+				{
+					"name" : "count[15]",
+					"strict" : false
+				},
+				{
+					"name" : "count[16]",
+					"strict" : false
+				},
+				{
+					"name" : "count[17]",
+					"strict" : false
+				},
+				{
+					"name" : "count[18]",
+					"strict" : false
+				},
+				{
+					"name" : "count[19]",
+					"strict" : false
+				},
+				{
+					"name" : "count[20]",
+					"strict" : false
+				},
+				{
+					"name" : "count[21]",
+					"strict" : false
+				},
+				{
+					"name" : "count[22]",
+					"strict" : false
+				},
+				{
+					"name" : "count[23]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
